@@ -20,8 +20,9 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <p>
-          Edite o <code>src/App.jsx</code> e salve para testes HMR 14/05/2025
+          Edite o <code>src/App.jsx</code> e salve para testes HMR
         </p>
+        14/05/2025
       </div>
     </Space>
   );
