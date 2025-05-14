@@ -1,14 +1,13 @@
 import { Flex, Space } from "antd";
 import "./App.css";
 import reactLogo from "./assets/react.svg";
-import DrawerApp from "./components/drawer";
 import viteLogo from "/vite.svg";
 
 function App() {
   return (
     <Space direction="vertical">
       <Flex align="start" justify="flex-end">
-        <DrawerApp />
+        {/* <DrawerApp /> */}
       </Flex>
       <div>
         <a href="https://vitejs.dev" target="_blank">
@@ -21,7 +20,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <p>
-          Edite o <code>src/App.jsx</code> e salve para testes HMR
+          Edite o <code>src/App.jsx</code> e salve para testes HMR 14/05/2025
         </p>
       </div>
     </Space>
