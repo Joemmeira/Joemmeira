@@ -1,7 +1,7 @@
 import "./App.css";
 import Moldarium3D from "./components/moldarium3d";
 function App() {
-  <Moldarium3D />;
+  return <Moldarium3D />;
 }
 // function App() {
 //   return (
